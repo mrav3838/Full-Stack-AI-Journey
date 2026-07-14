@@ -23,7 +23,7 @@ This repository is organized strictly by technical domain. Each directory contai
 
 ---
 
-## 📈 The Ledger
-
 | Log | Topic | Status |
-| Log 001 | Python Basics & ML Foundations | 🟢 Completed |
+| :--- | :--- | :--- |
+| **Log 001** | Python Basics & ML Foundations | 🟢 Completed |
+| **Log 002** | Data Structures, Loops & Functions | 🟢 Completed |
