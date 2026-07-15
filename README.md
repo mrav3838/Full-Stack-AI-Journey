@@ -27,3 +27,4 @@ This repository is organized strictly by technical domain. Each directory contai
 | :--- | :--- | :--- |
 | **Log 001** | Python Basics & ML Foundations | 🟢 Completed |
 | **Log 002** | Data Structures, Loops & Functions | 🟢 Completed |
+| **Log 003** | Python Data Science Libraries & Stock Prediction | 🟢 Completed |
